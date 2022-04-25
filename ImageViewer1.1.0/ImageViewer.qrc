@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/ImageViewer">
+        <file>Resources/bitbug_favicon.ico</file>
+        <file>Resources/open.ico</file>
+        <file>Resources/save.ico</file>
+    </qresource>
+</RCC>
